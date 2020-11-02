@@ -1,0 +1,1 @@
+# Epsiloner.Wpf.SymbolIcons
